@@ -1,4 +1,4 @@
-package = "LuaDate"
+package = "date"
 version = "2.0.1-1"
 
 description = {
